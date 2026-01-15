@@ -8,7 +8,7 @@ The goal is consistency, clarity, and strong problem-solving foundations, with d
 |       Days | Topics Covered                                                           | Status      |
 | ---------: | ------------------------------------------------------------------------ | ----------- |
 |      Day 1 | Java Basics (if-else, loops, switch, functions, time & space complexity) | ✅ Completed |
-|      Day 2 | Arrays – Basics                                                          | ⏳ Upcoming  |
+|      Day 2 | Arrays – Basics                                                          | ✅ Completed |
 |      Day 3 | Arrays – Intermediate                                                    | ⏳ Upcoming  |
 |      Day 4 | Arrays – Advanced Patterns                                               | ⏳ Upcoming  |
 |      Day 5 | 2D Arrays                                                                | ⏳ Upcoming  |
