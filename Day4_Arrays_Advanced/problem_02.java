@@ -1,11 +1,11 @@
-// Count frequency of elements
-package Day3_Arrays_Intermediate;
+// Best time to buy & sell stock
+
+package Day4_Arrays_Advanced;
 
 import java.util.Scanner;
 
-public class problem4 {
-
-    static void input_array(int[] arr, Scanner sc){
+    public class problem_02 {
+     static void input_array(int[] arr, Scanner sc){
         System.out.println("Enter the elements:");
         for(int i=0; i<arr.length; i++){
             arr[i] = sc.nextInt();
@@ -17,16 +17,14 @@ public class problem4 {
         int n = sc.nextInt();
         int[] arr = new int[n];
         input_array(arr, sc);
-        System.out.print("Enter the target element: ");
-        int target = sc.nextInt();
-        int count = 0;
-        for(int i=0; i<n; i++){
-            if(arr[i] == target){
-                count++;
-            }
+        int min = arr[0];
+        int profit = 0;
+        for(int i=1; i<n; i++){
+            int cost = arr[i] - min;
+            profit = Math.max(profit,cost);
+            min = Math.min(min,arr[i]);
         }
-        System.out.println("Count frequency of given element is: " +count);
-
+        System.out.println(profit);
     }
 }
 // Time complexity = O(n)

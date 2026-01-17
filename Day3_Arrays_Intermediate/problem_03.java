@@ -3,7 +3,7 @@ package Day3_Arrays_Intermediate;
 
 import java.util.Scanner;
 
-public class problem3 {
+public class problem_03 {
 
     static void input_array(int[] arr, Scanner sc){
         System.out.println("Enter the elements:");
