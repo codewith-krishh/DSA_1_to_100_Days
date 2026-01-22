@@ -40,6 +40,8 @@ public class problem_03 {
         //     }
         //     arr[n-1] = temp;
         // }
+        // Time complexity = O(n^2)
+        // Space Complexity = O(1)
 
         // Optimal Approach
         ReverseArray(arr, 0, k-1);
@@ -54,4 +56,4 @@ public class problem_03 {
     }
 }
 // Time complexity = O(n)
-// Space Complexity = O(n) [or = O(1) if array is given]
+// Space Complexity = O(1)

@@ -28,4 +28,4 @@ import java.util.Scanner;
     }
 }
 // Time complexity = O(n)
-// Space Complexity = O(n) [or = O(1) if array is given]
+// Space Complexity = O(1)

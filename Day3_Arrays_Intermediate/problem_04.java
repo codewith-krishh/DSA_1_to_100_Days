@@ -33,7 +33,7 @@ public class problem_04 {
         // }
         // }
         // Time complexity = O(n*w)
-        // Space Complexity = O(n) [or = O(1) if array is given]
+        // Space Complexity = O(1)
 
         // Optimal approach
         int sum1 = (n*(n+1))/2;
@@ -48,4 +48,4 @@ public class problem_04 {
     
 }
 // Time complexity = O(n)
-// Space Complexity = O(n) [or = O(1) if array is given]
+// Space Complexity = O(1)

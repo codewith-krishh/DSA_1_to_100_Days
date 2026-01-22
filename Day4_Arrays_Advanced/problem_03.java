@@ -35,13 +35,14 @@ import java.util.Scanner;
     static void Remove_zero2(int[] arr, int n){
         int j = 0; // position for next non-zero
         for (int i = 0; i < n; i++) {
-        if (arr[i] != 0) {
+            if (arr[i] != 0) {
             int temp = arr[i];
             arr[i] = arr[j];
             arr[j] = temp;
             j++;
+            }
         }
-    }
+        PrintArray(arr);
     }
 
     public static void main(String[] args) {
@@ -50,9 +51,15 @@ import java.util.Scanner;
         int n = sc.nextInt();
         int[] arr = new int[n];
         input_array(arr, sc);
+
         // brute-force method
-        // Remove_zero1(arr,n);
+        Remove_zero1(arr,n);
+        // Time complexity = O(n)
+        // Space complexity = O(n)
+
         // optimal approach
         Remove_zero2(arr,n);
+        // Time complexity = O(n)
+        // Space complexity = O(1)
     }
 }
