@@ -12,7 +12,7 @@ The goal is consistency, clarity, and strong problem-solving foundations, with d
 |      Day 3 | Arrays – Intermediate                                                    | ✅ Completed |
 |      Day 4 | Arrays – Advanced Patterns                                               | ✅ Completed |
 |      Day 5 | 2D Arrays                                                                | ✅ Completed |
-|      Day 6 | Strings – Basics                                                         | ⏳ Upcoming  |
+|      Day 6 | Strings – Basics                                                         | ✅ Completed |
 |      Day 7 | Strings – Patterns                                                       | ⏳ Upcoming  |
 |      Day 8 | Basic Math                                                               | ⏳ Upcoming  |
 |      Day 9 | Two Pointers                                                             | ⏳ Upcoming  |
