@@ -1,6 +1,6 @@
 // LCM of two numbers
 
-package DAY8_Basic_Math;
+package Day8_Basic_Math;
 
 import java.util.Scanner;
 

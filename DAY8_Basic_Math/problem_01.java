@@ -1,6 +1,6 @@
 // Check prime
 
-package DAY8_Basic_Math;
+package Day8_Basic_Math;
 import java.util.Scanner;
 
 public class problem_01 {
