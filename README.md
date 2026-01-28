@@ -14,8 +14,8 @@ The goal is consistency, clarity, and strong problem-solving foundations, with d
 |      Day 5 | 2D Arrays                                                                | ✅ Completed |
 |      Day 6 | Strings – Basics                                                         | ✅ Completed |
 |      Day 7 | Strings – Patterns                                                       | ✅ Completed |
-|      Day 8 | Basic Math                                                               | ⏳ Upcoming  |
-|      Day 9 | Two Pointers                                                             | ⏳ Upcoming  |
+|      Day 8 | Basic Math                                                               | ✅ Completed |
+|      Day 9 | Two Pointers                                                             | ✅ Completed |
 |     Day 10 | Sliding Window                                                           | ⏳ Upcoming  |
 |  Day 11–20 | Recursion & Backtracking                                                 | ⏳ Upcoming  |
 |  Day 21–30 | Searching & Sorting                                                      | ⏳ Upcoming  |
