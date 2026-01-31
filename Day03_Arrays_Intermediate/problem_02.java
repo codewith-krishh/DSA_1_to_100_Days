@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class problem_02 {
 
+    
         static void input_array(int[] arr, Scanner sc){
         System.out.println("Enter the elements:");
         for(int i=0; i<arr.length; i++){
