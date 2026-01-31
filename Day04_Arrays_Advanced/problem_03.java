@@ -1,5 +1,5 @@
 // Move all zeros to end
-package Day4_Arrays_Advanced;
+package Day04_Arrays_Advanced;
 
 import java.util.Scanner;
 
