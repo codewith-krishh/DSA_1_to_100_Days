@@ -1,5 +1,5 @@
 // First non-repeating character
-package Day7_strings_patterns;
+package Day07_strings_patterns;
 
 import java.util.HashMap;
 import java.util.Scanner;

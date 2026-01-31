@@ -1,5 +1,5 @@
 // Check rotation of string
-package Day7_strings_patterns;
+package Day07_strings_patterns;
 
 public class problem_03 {
 

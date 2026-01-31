@@ -1,6 +1,6 @@
 // Remove outermost parentheses
 
-package Day7_strings_patterns;
+package Day07_strings_patterns;
 import java.util.Scanner;
 
 public class problem_01 {
