@@ -1,5 +1,5 @@
 // Count frequency of elements
-package Day3_Arrays_Intermediate;
+package Day03_Arrays_Intermediate;
 
 import java.util.Scanner;
 
