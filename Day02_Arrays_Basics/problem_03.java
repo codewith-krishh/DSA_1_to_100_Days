@@ -1,5 +1,5 @@
 // Check if array is sorted(ascending)
-package Day2_Arrays_Basics;
+package Day02_Arrays_Basics;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Sum of array elements
-package Day2_Arrays_Basics;
+package Day02_Arrays_Basics;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Prefix sum implementation
-package Day2_Arrays_Basics;
+package Day02_Arrays_Basics;
 
 public class problem_05 {
 

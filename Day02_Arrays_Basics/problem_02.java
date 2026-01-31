@@ -1,5 +1,5 @@
 // Second largest element
-package Day2_Arrays_Basics;
+package Day02_Arrays_Basics;
 import java.util.Scanner;
 
 public class problem_02 {

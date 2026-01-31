@@ -1,5 +1,5 @@
 // Find largest element in array
-package Day2_Arrays_Basics;
+package Day02_Arrays_Basics;
 import java.util.Scanner;
 
 public class problem_01{
