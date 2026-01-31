@@ -1,5 +1,5 @@
 // Transpose of matrix
-package Day5_twoD_Array;
+package Day05_twoD_Array;
 
 import java.util.Scanner;
 
