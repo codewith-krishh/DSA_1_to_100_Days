@@ -1,5 +1,5 @@
 // Maximum consecutive ones
-package Day5_Array_additional;
+package Day05_Array_additional;
 import java.util.*;
 
 public class problem_02 {
