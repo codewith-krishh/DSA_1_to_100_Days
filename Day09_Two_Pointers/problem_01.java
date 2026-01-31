@@ -1,6 +1,6 @@
 // Two Sum(sorted)
 
-package Day9_Two_Pointers;
+package Day09_Two_Pointers;
 import java.util.Arrays;
 import java.util.Scanner;
 

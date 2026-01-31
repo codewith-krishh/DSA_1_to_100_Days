@@ -1,5 +1,5 @@
 // Pair with given sum
-package Day9_Two_Pointers;
+package Day09_Two_Pointers;
 import java.util.HashMap;
 import java.util.Scanner;
 

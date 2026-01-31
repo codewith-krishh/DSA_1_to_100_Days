@@ -1,6 +1,6 @@
 // Remove duplicates (two pointers)
 
-package Day9_Two_Pointers;
+package Day09_Two_Pointers;
 import java.util.Scanner;
 
 public class problem_03 {
