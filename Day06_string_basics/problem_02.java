@@ -1,6 +1,6 @@
 // Check palindrome
 
-package Day6_string_basics;
+package Day06_string_basics;
 import java.util.Scanner;
 
 public class problem_02 {
