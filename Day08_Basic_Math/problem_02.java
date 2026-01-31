@@ -1,6 +1,6 @@
 // Print primes up to N
 
-package Day8_Basic_Math;
+package Day08_Basic_Math;
 
 import java.util.Scanner;
 

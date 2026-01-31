@@ -1,6 +1,6 @@
 // GCD of two numbers
 
-package Day8_Basic_Math;
+package Day08_Basic_Math;
 import java.util.Scanner;
 
 public class problem_03 {
