@@ -1,4 +1,4 @@
-package Day1_Basics;
+package Day01_Basics;
 
 public class Part2_for_while {
     public static void main(String[] args){
