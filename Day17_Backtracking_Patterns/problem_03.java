@@ -46,3 +46,5 @@ public class problem_03 {
         sc.close();
     }
 }
+// Time complexity -  O(2^n * n^2)
+// Space complexity - O(n) (extra) / O(2^n * n) (including output)
