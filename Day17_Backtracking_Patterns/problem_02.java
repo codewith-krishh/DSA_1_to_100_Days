@@ -1,6 +1,4 @@
 // Generate valid parentheses
-// Palindrome partitioning
-// Word search in grid
 package Day17_Backtracking_Patterns;
 import java.util.ArrayList;
 import java.util.List;
